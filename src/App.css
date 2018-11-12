@@ -1,0 +1,89 @@
+body{
+  background:rebeccapurple
+}
+
+.news{
+  text-align: center;
+  color: white;
+
+  margin-top: 10px;
+font-family: 'Black And White Picture', sans-serif;
+}
+
+
+.card-title {
+  margin-bottom: .75rem;
+  color: rebeccapurple;
+  font-family: 'Black And White Picture', sans-serif;
+
+}
+
+.card-text{
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
+  color: #fff;
+  background-color: #16d9e2 !important;
+  border-color: #edf0f3 !important;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #16d9e2 !important;
+  border-color: #edf0f3 !important;
+}
+
+.card{
+text-align: center;
+}
+
+.cnbc{
+ width: 80%;
+ width: 80%;
+    margin-left: 23px;
+    height: 142px;
+}
+
+.margin_class{
+  margin-top: 50px;
+}
+
+
+.bbc {
+  width: 257px;
+  margin-left: -2px;
+  margin-top: -2px;
+  height: 142px;
+}
+
+
+.bloomberg{
+  height: 142px;
+}
+
+.cnn-news{
+text-align: center;
+}
+
+.Newsdiv{
+text-align: center;
+}
+
+.imgclass{
+  width: 100%;
+  height: 100%;
+}
+
+.news-class{
+margin-top: 50px;
+}
+
+.publish{
+text-align: left !important;
+}
+
+.articledesc{
+margin-top: 10px;
+color: #605c65;
+}
